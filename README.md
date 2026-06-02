@@ -109,6 +109,26 @@ public class Aadhithyan {
 
 ---
 
+## 🔥 LeetCode Streak Stats
+
+---
+
+## 💻 DSA & Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/AadhiMahadevan/">
+    <img src="https://leetcard.jacoblin.cool/AadhiMahadevan?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AadhiMahadevan/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
